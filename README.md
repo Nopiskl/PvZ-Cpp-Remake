@@ -203,5 +203,8 @@ If you're learning from this codebase:
 4. Examine `WaveManager` for game progression logic
 5. Check `Zombie::BasicUpdate()` for AI implementation
 
+![1](screenshot/1.png "")
+![2](screenshot/2.png "")
+
 Happy coding!
 
